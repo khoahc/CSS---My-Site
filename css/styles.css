@@ -55,3 +55,9 @@ h3 {
   text-align: left;
   line-height: 2;
 }
+.computer-img,
+.chilli-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
